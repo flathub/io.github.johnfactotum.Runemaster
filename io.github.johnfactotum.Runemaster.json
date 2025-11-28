@@ -1,7 +1,7 @@
 {
     "app-id": "io.github.johnfactotum.Runemaster",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "48",
+    "runtime-version": "49",
     "sdk": "org.gnome.Sdk",
     "command": "runemaster",
     "finish-args": [
@@ -18,8 +18,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/johnfactotum/runemaster.git",
-                    "tag": "v1.0.0",
-                    "commit": "0c3ee23a8f2ce6b678a843aa7cbb89085803ef12"
+                    "tag": "v1.1.0",
+                    "commit": "21087880a64be8a17df879b4084e108e4f4b4c15"
                 }
             ]
         }
